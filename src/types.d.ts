@@ -1,3 +1,5 @@
+// 声明模块和变量
+
 // declare module "*.vue" {
 //   import type { DefineComponent } from "vue";
 //   const component: DefineComponent<>;
